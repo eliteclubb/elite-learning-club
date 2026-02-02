@@ -133,6 +133,10 @@ footer {
     Scan our QR code or contact us to join ELITE Learning Club.
   </p> elite2025vision@gmail.com 
    7530000825
+  https://whatsapp.com/channel/0029VbCDGp1EwEjs1EUJrt2L
+ 
+  https://www.linkedin.com/in/elite-the-learning-club-4972293a5
+  https://www.instagram.com/xtreme_elite_25?igsh=MTRoYXVhbnB2MHNkaA==
 </section>
 
 <footer>
