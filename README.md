@@ -131,7 +131,8 @@ footer {
   <p>
     Be part of a learning community that grows together.  
     Scan our QR code or contact us to join ELITE Learning Club.
-  </p>
+  </p> elite2025vision@gmail.com 
+   7530000825
 </section>
 
 <footer>
